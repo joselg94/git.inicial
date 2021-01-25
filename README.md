@@ -1,1 +1,1 @@
-# git.inicial
+esta es la descripcion de mi proye
